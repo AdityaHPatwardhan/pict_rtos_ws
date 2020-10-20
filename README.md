@@ -1,4 +1,6 @@
 # pict_rtos_ws
+Poorva Bedmutha
+
 This repository is created for the PICT RTOS Workshop. Please fork this repository and push solutions of any assignments into your own fork.
 
 ## The list of tasks for GIT
@@ -13,7 +15,6 @@ This repository is created for the PICT RTOS Workshop. Please fork this reposito
 9. Learn how to make patches , send patches to friends and how to apply patches to the data
 10. Learn about detached HEAD state and how to operate from there
 11. learn how to move files from different origins like github to gitlab or viceversa
-12. what are sub-modules and what are they used for ?
 
 ## FreeRTOS Task
 1. Producer Consumer
